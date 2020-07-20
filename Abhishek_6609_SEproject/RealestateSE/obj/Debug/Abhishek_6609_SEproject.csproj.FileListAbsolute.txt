@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\RealestateSE\RealestateSE\bin\Debug\RealestateSE.exe.config
+C:\Users\User\source\repos\RealestateSE\RealestateSE\bin\Debug\RealestateSE.exe
+C:\Users\User\source\repos\RealestateSE\RealestateSE\bin\Debug\RealestateSE.pdb
+C:\Users\User\source\repos\RealestateSE\RealestateSE\obj\Debug\Abhishek_6609_SEproject.csprojAssemblyReference.cache
+C:\Users\User\source\repos\RealestateSE\RealestateSE\obj\Debug\RealestateSE.Form1.resources
+C:\Users\User\source\repos\RealestateSE\RealestateSE\obj\Debug\RealestateSE.Form2.resources
+C:\Users\User\source\repos\RealestateSE\RealestateSE\obj\Debug\RealestateSE.Form3.resources
+C:\Users\User\source\repos\RealestateSE\RealestateSE\obj\Debug\RealestateSE.Form4.resources
+C:\Users\User\source\repos\RealestateSE\RealestateSE\obj\Debug\RealestateSE.Properties.Resources.resources
+C:\Users\User\source\repos\RealestateSE\RealestateSE\obj\Debug\Abhishek_6609_SEproject.csproj.GenerateResource.cache
+C:\Users\User\source\repos\RealestateSE\RealestateSE\obj\Debug\Abhishek_6609_SEproject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RealestateSE\RealestateSE\obj\Debug\RealestateSE.exe
+C:\Users\User\source\repos\RealestateSE\RealestateSE\obj\Debug\RealestateSE.pdb
